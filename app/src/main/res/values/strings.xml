@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nearest Doctors</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="label_specialty">Je cherche la spécialité :</string>
+    <string name="action_search">Recherche</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_maps">Carte</string>
+</resources>

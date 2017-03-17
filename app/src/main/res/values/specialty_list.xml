@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="specialty_list">
+        <item>Allergologie</item>
+        <item>Anesthésiologie-réanimation chirurgicale</item>
+        <item>Biologie médicale et physiologie</item>
+        <item>Cardiologie</item>
+        <item>Chirurgie</item>
+        <item>Chirurgie-dentaire</item>
+        <item>Dermatologie et Vénéréologie</item>
+        <item>Endocrinologie et métabolisme</item>
+        <item>Gastro-entérologie et hépatologie</item>
+        <item>Généalogie</item>
+        <item>Gynécologie-obstétrique</item>
+        <item>Hématologie</item>
+        <item>Néphrologie</item>
+        <item>Neurochirurgie</item>
+        <item>Neuropsychiatrie</item>
+        <item>Neurologie</item>
+        <item>Ophtalmologie</item>
+        <item>Orthopédie dento-faciale</item>
+        <item>Oto rhino laryngologie</item>
+        <item>Pathologie du sommeil</item>
+        <item>Pédiatrie</item>
+        <item>Pneumologie</item>
+        <item>Psychiatrie</item>
+        <item>Radiologie</item>
+        <item>Rhumatologie</item>
+        <item>Sexologie</item>
+        <item>Urologie</item>
+        <item>Vétérinaire</item>
+    </string-array>
+</resources>
